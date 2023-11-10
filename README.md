@@ -1,1 +1,1 @@
-# CSC-180_Intelligent_Systems
+# Machine Learning and Artificial Intelligence
